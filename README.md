@@ -2,7 +2,7 @@
 
 ![image](https://github.com/carlcarl001001/OptimmizeListView/blob/master/result.gif)
 
-#key point:
+# key point:
 
 1.Use viewHolder in getView function of adaper class.
 
